@@ -22,7 +22,7 @@ body{
 .logo{
     width: 150px;
     height: 150px;
-    background-image: url(../../素材/1599542001624拷貝.jpg);
+    background-image: url(../素材/1599542001624拷貝.jpg);
     background-color: lawngreen;
     background-size: cover;
 }
@@ -61,14 +61,14 @@ a{
 }
 .imgA{
     margin-right: 5px;
-    background-image: url(../../素材/gundam\ OO\ ELS.jpg);
+    background-image: url(../素材/gundam\ OO\ ELS.jpg;
 }
 .imgB{
     margin-right: 5px;
-    background-image: url(../../素材/gundam\ OO.jpg);
+    background-image: url(../素材/gundam\ OO.jpg);
 }
 .imgC{
-    background-image: url(../../素材/gundam\ OOR-01.jpg);
+    background-image: url(../素材/gundam\ OOR-01.jpg);
 }
 .mask{
     flex-grow: 1;
